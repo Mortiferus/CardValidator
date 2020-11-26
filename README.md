@@ -13,7 +13,7 @@
 
      https://github.com/Mortiferus/CardValidator/issues/1
 
-**В процессе тестирования использовались следующие артефакты:*
+**В процессе тестирования использовались следующие артефакты:**
 
     1) Установка IntelliJ IDEA (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
     2) Сгенерированные номера карт (https://www.freeformatter.com/credit-card-number-generator-validator.html)
